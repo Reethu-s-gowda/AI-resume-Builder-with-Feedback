@@ -1,3 +1,5 @@
+# AI-resume-Builder-with-Feedback
+An AI-powered resume builder and analyzer that evaluates resume quality, delivers smart actionable feedback, and ensures optimal ATS compatibility to help land career opportunities
 <p><small>Best View in <a href="https://github.com/settings/appearance">Dark Mode</a> (Recommended)</small></p><br/>
 
 <div align="center">
