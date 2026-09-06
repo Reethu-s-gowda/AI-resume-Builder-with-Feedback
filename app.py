@@ -485,9 +485,7 @@ class ResumeApp:
         </style>
         """, unsafe_allow_html=True)
         
-    def add_footer(self):
-        """Add a footer to all pages"""
-        pass
+   
 
     def load_image(self, image_name):
         """Load image from static directory"""
@@ -2946,9 +2944,7 @@ class ResumeApp:
         </style>
         """, unsafe_allow_html=True)
         
-    def add_footer(self):
-        """Add a footer to all pages"""
-        pass
+   
 
     def load_image(self, image_name):
         """Load image from static directory"""
