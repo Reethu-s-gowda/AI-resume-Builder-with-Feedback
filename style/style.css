@@ -260,6 +260,7 @@ h1, h2, h3 {
 h1 {
     background: var(--primary-gradient);
     -webkit-background-clip: text;
+    background-clip: text; 
     -webkit-text-fill-color: transparent;
     font-size: 2.5rem;
     margin-bottom: 1.5rem;
@@ -454,6 +455,7 @@ h1 {
     font-weight: 700;
     background: linear-gradient(45deg, #2193b0, #6dd5ed);
     -webkit-background-clip: text;
+    background-clip: text; 
     -webkit-text-fill-color: transparent;
 }
 
@@ -813,6 +815,7 @@ h1 {
     font-weight: 700;
     background: var(--primary-gradient);
     -webkit-background-clip: text;
+    background-clip: text; 
     -webkit-text-fill-color: transparent;
     margin: 1rem 0;
 }
@@ -980,6 +983,7 @@ h1 {
     margin-bottom: 1rem;
     background: linear-gradient(135deg, #00B4DB 0%, #0083B0 100%);
     -webkit-background-clip: text;
+    background-clip: text; 
     -webkit-text-fill-color: transparent;
     animation: fadeInUp 0.8s ease;
 }
@@ -1108,6 +1112,7 @@ h1 {
     font-weight: 700;
     background: linear-gradient(45deg, #00b4db, #0083b0);
     -webkit-background-clip: text;
+    background-clip: text; 
     -webkit-text-fill-color: transparent;
     margin-bottom: 1.5rem;
     z-index: 1;
@@ -1339,6 +1344,7 @@ h1 {
     font-weight: 600;
     background: linear-gradient(45deg, #00b4db, #0083b0);
     -webkit-background-clip: text;
+    background-clip: text; 
     -webkit-text-fill-color: transparent;
     margin: 0;
 }
